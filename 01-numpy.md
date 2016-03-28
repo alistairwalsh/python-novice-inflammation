@@ -27,7 +27,7 @@ especially if you have matrices or arrays.
 We can load NumPy using:
 
 ~~~ {.python}
-import numpy
+import numpy as np
 ~~~
 
 Importing a library is like getting a piece of lab equipment out of a storage locker
